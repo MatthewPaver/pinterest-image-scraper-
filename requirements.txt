@@ -1,0 +1,1 @@
+pinscrape>=1.0
